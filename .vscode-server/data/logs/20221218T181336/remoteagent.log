@@ -1,0 +1,14 @@
+2022-12-18 18:13:36.822 [info] Extension host agent started.
+2022-12-18 18:13:37.165 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sorokin/.vscode-server/extensions
+2022-12-18 18:13:37.231 [info] [127.0.0.1][e73a29d7][ManagementConnection] New connection established.
+2022-12-18 18:13:37.241 [info] [127.0.0.1][ab4194c5][ExtensionHostConnection] New connection established.
+2022-12-18 18:13:37.251 [info] [127.0.0.1][ab4194c5][ExtensionHostConnection] <10828> Launched Extension Host Process.
+2022-12-18 18:13:37.264 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sorokin/.vscode-server/extensions
+2022-12-18 18:14:09.114 [info] [127.0.0.1][e73a29d7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-18 18:14:09.215 [info] [127.0.0.1][ab4194c5][ExtensionHostConnection] <10828> Extension Host Process exited with code: 0, signal: null.
+2022-12-18 18:14:09.217 [info] Last EH closed, waiting before shutting down
+2022-12-18 18:14:12.688 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-18 18:14:12.688 [info] Cancelling previous shutdown timeout
+2022-12-18 18:14:12.825 [info] [127.0.0.1][e6f8ea91][ManagementConnection] New connection established.
+2022-12-18 18:14:12.834 [info] [127.0.0.1][0dea13fe][ExtensionHostConnection] New connection established.
+2022-12-18 18:14:12.846 [info] [127.0.0.1][0dea13fe][ExtensionHostConnection] <10935> Launched Extension Host Process.
